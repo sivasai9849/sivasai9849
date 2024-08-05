@@ -1,72 +1,75 @@
-<h2 align="left">Hello 👋! Im Siva Sai</h2>
+# Siva Sai Naganaboyina
 
-###
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/siva-sai-naganaboyina-7203b7266)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?logo=github&style=flat-square)](https://github.com/sivasai9849)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:sivasainaganaboyina@gmail.com)
 
-<img align="right" height="250" src="https://img.freepik.com/free-vector/programmer-working-flat-style_52683-15041.jpg?size=626&ext=jpg"  />
+## 👨‍💻 Software Engineer | Full Stack Developer | AI Enthusiast
 
-###
+Computer Science and Design student with a passion for developing innovative software solutions. Experienced in full-stack development, AI integration, and performance optimization.
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="materialui logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-</div>
+---
 
-###
+### 🚀 Experience
 
-<div align="left">
- <a href="mailto:sivasainaganaboyina@gmail.com"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
-  <a href="#"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
-</div>
+**Software Engineering Intern** | Bizcraft Advisors | April 2023 - Present
+- Automated Tally using AI models, reducing manual workload by 90%
+- Engineered high-performance backend with FastAPI and Docker
+- Integrated Temporal for workflow automation, cutting processing time by 50%
+- Optimized OpenAI function calls, enhancing application performance by 30%
+- Incorporated Gemini AI and Mistral AI as fallback mechanisms using LangChain
 
-###
+---
+
+### 🛠️ Technical Skills
+
+- **Languages:** C, Python, JavaScript, Java, HTML, CSS, R
+- **Frameworks:** React, Next.js, React Native, FastAPI, Express.js, Node.js
+- **Tools:** VS Code, Git, GitHub, Docker, Postman
+- **Cloud/Databases:** MongoDB, Firebase, MySQL, PostgreSQL, Microsoft Azure, Supabase
+
+---
+
+### 🏗️ Projects
+
+#### [SRKREC Alumni Association of North America Website](https://www.thesaana.org)
+- Developed a website serving 500+ alumni members
+- Implemented user authentication and PayPal integration
+- Enhanced security with Google reCAPTCHA
+
+#### [Document Translator](https://doc-translate.vercel.app/)
+- Translates documents into 103 languages with 98% accuracy
+- Summarizes and translates content with 80% accuracy
+- Built with Google Cloud Vision API, OpenAI, and Azure services
+
+#### [BuzzShare App](https://github.com/sivasai9849/posts-app.git)
+- React Native app for real-time post creation and viewing
+- Implemented Firebase Authentication and Cloud Firestore
+
+---
+
+### 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sivasai9849&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sivasai9849&theme=radical)
+
+---
+
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sivasai9849&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 🎓 Education
+
+**Bachelor of Technology in Computer Science and Design** | 2021-2025
+Sagi Ramakrishnam Raju Engineering College, Bhimavaram
+CGPA: 8.78
+
+---
+
+### 📫 Let's Connect!
+
+Feel free to reach out for collaborations or just a chat about technology and innovation!
