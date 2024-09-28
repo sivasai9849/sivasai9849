@@ -12,7 +12,7 @@ Computer Science and Design student with a passion for developing innovative sof
 
 ### 🚀 Experience
 
-**Software Engineering Intern** | Bizcraft Advisors | April 2023 - Present
+**Software Engineering Intern** | Rootsquare Labs | April 2023 - Present
 - Automated Tally using AI models, reducing manual workload by 90%
 - Engineered high-performance backend with FastAPI and Docker
 - Integrated Temporal for workflow automation, cutting processing time by 50%
